@@ -1,6 +1,6 @@
 # Modal 部署指南,会封号，勿用
 
-f03133226@gmail.com
+mikeservaa@gmail.com
 
 1. 注册网站：[https://modal.com](https://modal.com)
 
